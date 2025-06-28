@@ -4,7 +4,6 @@
 💡 Curious mind | 💻 Full Stack Developer | 📊 Aspiring Data Scientist  
 🔍 Exploring the intersection of **technology, data, and creativity**
 
----
 
 ## 🔭 Currently Working On:
 - 📈 IBM Professional Certificate in **Data Science**
@@ -14,13 +13,10 @@
 - 📊 Power BI & Business Intelligence
 - 🧠 AI & Prompt Engineering
 
----
-
 ## 📬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/azza-guesmi-176ba1291/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/azzaguesmi00)
 
----
 
 ## 🛠️ Languages & Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -35,15 +31,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=azzaguesmi00&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
 ## 📊 GitHub Stats:
 ![Azza's GitHub stats](https://github-readme-stats.vercel.app/api?username=azzaguesmi00&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzaguesmi00&layout=compact&theme=radical)
-
----
